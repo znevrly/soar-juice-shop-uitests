@@ -1,6 +1,7 @@
 # Juice Eshop UI Tests
 
-This project contains API and UI tests for the Juice Eshop. Some tests might fail due to current bugs in API/UI.
+This project contains UI tests for the Juice Eshop. Some tests might fail due to current bugs in application.
+Tests assume a new instance of the application.
 
 ## Requirements
 -Node.js LTS  
